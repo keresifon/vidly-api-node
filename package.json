@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": { 
+    "node": "12.16.1" 
+ },
   "scripts": {
     "start": "node index.js",
     "seed": "node seed.js",
-    "test": "jest --watchAll --verbose"
+    "test": "jest --watchAll --verbose",
+    
   },
   "keywords": [],
   "author": "",
