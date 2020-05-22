@@ -4,3 +4,4 @@
   "port": "3900",
   "requiresAuth": true
 }
+mongodb+srv://vidly:<password>@cluster0-0xo2j.mongodb.net/test?retryWrites=true&w=majority
